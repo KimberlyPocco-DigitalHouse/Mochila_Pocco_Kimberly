@@ -1,0 +1,19 @@
+# Pasos de ayuda en Git
+
+Clonar un repositorio existente
+$ git clone ssh://usuario@domain.com/repo.git
+
+Para iniciar una repo
+git init 
+
+Para añadir una rama
+git branch -M 
+
+Para añadir cambios 
+git add nombrearchivo
+
+Para comentar 
+git commit -m "mensaje"
+
+Para subir los cambios
+git push -u origin nombredelarama
