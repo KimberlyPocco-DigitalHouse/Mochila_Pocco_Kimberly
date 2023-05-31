@@ -1,1 +1,1 @@
-# Armando Computadoras
+# clase 9: actividad armado de PC 
