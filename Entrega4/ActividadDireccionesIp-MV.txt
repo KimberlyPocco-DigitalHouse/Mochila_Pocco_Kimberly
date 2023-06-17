@@ -1,0 +1,12 @@
+● La IP privada y pública de la máquina virtual
+Dirección IP privada: 192.168.181.129
+No me muestra mi IP publica por parte de mi proveedor
+
+● La dirección MAC
+Dirección MAC: 00:0c:29:e7:95:0f 
+
+● ¿Es diferente a la IP pública y privada de nuestra máquina host?
+Sí, es diferente porque la dirección MAC es una identificación única 
+asignada a la interfaz de red de cada dispositivo, mientras que las
+ direcciones IP son direcciones lógicas utilizadas para identificar y 
+ comunicarse con dispositivos en una red.
